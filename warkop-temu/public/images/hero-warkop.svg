@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 825" role="img" aria-label="Sajian kopi dan roti di meja warkop">
+<defs><radialGradient id="table" cx="48%" cy="34%" r="68%"><stop stop-color="#f5c98a"/><stop offset="1" stop-color="#dc9a69"/></radialGradient><linearGradient id="cup" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8e9"/><stop offset="1" stop-color="#d6ad7a"/></linearGradient><linearGradient id="coffee" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8f5232"/><stop offset="1" stop-color="#4e2d23"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="17"/></filter></defs>
+<path d="M115 130Q193 18 361 43Q535 32 660 144Q788 254 711 430Q734 595 606 716Q475 823 303 753Q124 780 62 613Q-26 453 62 307Q47 207 115 130Z" fill="#dfb889"/>
+<path d="M123 161Q217 53 360 76Q517 62 624 180Q730 278 684 424Q690 571 562 689Q432 773 305 713Q154 734 102 585Q23 462 97 326Q79 238 123 161Z" fill="url(#table)"/>
+<circle cx="404" cy="410" r="302" fill="none" stroke="#fff0d1" stroke-width="2" stroke-dasharray="9 13" opacity=".5"/>
+<!-- coaster -->
+<ellipse cx="396" cy="446" rx="223" ry="222" fill="#603a27" opacity=".12" filter="url(#shadow)"/>
+<circle cx="399" cy="418" r="221" fill="#b36e4b"/><circle cx="399" cy="418" r="208" fill="none" stroke="#eec397" stroke-width="7" stroke-dasharray="4 14"/>
+<!-- cup handle -->
+<path d="M533 358C680 304 660 535 531 516" fill="none" stroke="#674332" stroke-width="44" stroke-linecap="round"/>
+<path d="M533 358C680 304 660 535 531 516" fill="none" stroke="#fff6e2" stroke-width="28" stroke-linecap="round"/>
+<!-- coffee cup top down -->
+<circle cx="396" cy="420" r="166" fill="#fffaf0" stroke="#66402c" stroke-width="10"/>
+<circle cx="396" cy="420" r="144" fill="url(#coffee)"/>
+<ellipse cx="383" cy="400" rx="122" ry="105" fill="#a66c48" opacity=".52"/>
+<!-- latte art rosetta -->
+<path d="M394 480C355 453 317 433 338 407C353 386 376 408 393 421C368 385 348 372 365 351C379 337 396 359 405 376C398 343 397 332 417 330C437 329 437 357 426 383C445 350 460 359 462 381C467 401 441 428 411 457C404 464 398 473 394 480Z" fill="#f4dbb5"/>
+<path d="M395 488C397 446 405 407 426 362" fill="none" stroke="#f8ead2" stroke-width="7" stroke-linecap="round"/>
+<path d="M365 371q31 31 62 7M346 397q39 38 85 11M349 432q39 23 66 15" fill="none" stroke="#f9e9ca" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="340" cy="355" rx="76" ry="16" fill="#fff6df" opacity=".13" transform="rotate(-43 340 355)"/>
+<!-- bread little plate -->
+<ellipse cx="602" cy="640" rx="122" ry="83" fill="#75523b" opacity=".12" filter="url(#shadow)"/>
+<ellipse cx="595" cy="622" rx="126" ry="91" fill="#fff8e6" stroke="#775032" stroke-width="8"/>
+<ellipse cx="595" cy="622" rx="109" ry="75" fill="#f3e1ba"/>
+<g transform="rotate(-16 598 616)"><rect x="526" y="574" width="145" height="103" rx="26" fill="#a96436" stroke="#69402a" stroke-width="7"/><rect x="537" y="585" width="124" height="82" rx="20" fill="#f1bb76"/><path d="M542 607q24 15 51 0t60 0M544 630q24-14 48 0t62-6" fill="none" stroke="#79452c" stroke-width="9" stroke-linecap="round"/><path d="M545 647q42 12 98 0" fill="none" stroke="#ffe4ac" stroke-width="7"/></g>
+<!-- flower and scattered beans -->
+<g fill="#573b2d"><ellipse cx="155" cy="514" rx="13" ry="22" transform="rotate(-35 155 514)"/><ellipse cx="182" cy="536" rx="11" ry="18" transform="rotate(22 182 536)"/><ellipse cx="193" cy="248" rx="12" ry="19" transform="rotate(13 193 248)"/></g>
+<path d="M155 499l2 27M182 521l-2 28M193 231l-2 32" fill="none" stroke="#c69365" stroke-width="3"/>
+<g fill="#ffefc4"><path d="M122 356l12 28 29 12-29 12-12 29-12-29-28-12 28-12z"/><path d="M590 145l9 20 20 9-20 9-9 20-8-20-20-9 20-9z"/></g>
+<path d="M159 656q50-6 73 22M157 681q45-6 70 18" fill="none" stroke="#834e34" stroke-width="6" stroke-linecap="round"/>
+<text x="200" y="134" transform="rotate(-14 200 134)" fill="#70432e" font-family="Georgia,serif" font-style="italic" font-size="38" font-weight="bold">coffee &amp; stories</text>
+<text x="520" y="255" transform="rotate(17 520 255)" fill="#70432e" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="4">EST. FOR YOU</text>
+</svg>

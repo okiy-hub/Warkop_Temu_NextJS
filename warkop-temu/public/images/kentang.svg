@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" role="img" aria-label="Ilustrasi Kentang Goreng">
+<defs>
+  <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="6" cy="7" r="1.3" fill="#62422f" opacity=".16"/></pattern>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="13"/></filter>
+  <linearGradient id="drink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9c39a"/><stop offset="1" stop-color="#996542"/></linearGradient>
+  <linearGradient id="coffee" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7e4a2f"/><stop offset="1" stop-color="#43271e"/></linearGradient>
+  <linearGradient id="bowl" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8e7"/><stop offset="1" stop-color="#e2b88a"/></linearGradient>
+</defs>
+<rect width="640" height="520" fill="#dbaf95"/><rect width="640" height="520" fill="url(#dots)"/>
+<circle cx="321" cy="255" r="207" fill="#f9d9ab" opacity=".56"/>
+<circle cx="321" cy="255" r="177" fill="none" stroke="#fdf5dc" stroke-width="2" stroke-dasharray="6 12" opacity=".85"/>
+<text x="31" y="43" fill="#5e4335" font-family="Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing="3">WARKOP TEMU · PILIHAN HARI INI</text>
+<text x="601" y="482" fill="#5e4335" font-family="Georgia,serif" font-size="22" font-style="italic" text-anchor="end">ngopi dulu.</text>
+<g fill="#fff7e8" opacity=".88"><path d="M98 94l7 16 17 7-17 7-7 17-7-17-17-7 17-7z"/><path d="M529 352l5 14 15 6-15 5-5 15-6-15-15-5 15-6z"/></g>
+<ellipse cx="325" cy="422" rx="164" ry="23" fill="#5d402e" opacity=".14" filter="url(#shadow)"/>
+<g stroke-linejoin="round" stroke-linecap="round"><rect x="239" y="172" width="32" height="201" rx="12" fill="#edab42" stroke="#79502f" stroke-width="6" transform="rotate(-11 239 172)"/><path d="M247 187v110" stroke="#ffe19b" stroke-width="7" opacity=".8"/><rect x="269" y="147" width="32" height="201" rx="12" fill="#edab42" stroke="#79502f" stroke-width="6" transform="rotate(-6 269 147)"/><path d="M277 162v110" stroke="#ffe19b" stroke-width="7" opacity=".8"/><rect x="301" y="146" width="32" height="201" rx="12" fill="#edab42" stroke="#79502f" stroke-width="6" transform="rotate(3 301 146)"/><path d="M309 161v110" stroke="#ffe19b" stroke-width="7" opacity=".8"/><rect x="334" y="154" width="32" height="201" rx="12" fill="#edab42" stroke="#79502f" stroke-width="6" transform="rotate(9 334 154)"/><path d="M342 169v110" stroke="#ffe19b" stroke-width="7" opacity=".8"/><rect x="368" y="165" width="32" height="201" rx="12" fill="#edab42" stroke="#79502f" stroke-width="6" transform="rotate(16 368 165)"/><path d="M376 180v110" stroke="#ffe19b" stroke-width="7" opacity=".8"/><rect x="401" y="185" width="32" height="201" rx="12" fill="#edab42" stroke="#79502f" stroke-width="6" transform="rotate(23 401 185)"/><path d="M409 200v110" stroke="#ffe19b" stroke-width="7" opacity=".8"/><path d="M209 257Q324 288 433 257L407 418H240Z" fill="#c95d3c" stroke="#67422f" stroke-width="9"/>
+<path d="M226 284Q326 305 419 284" fill="none" stroke="#f0a46a" stroke-width="8"/>
+<circle cx="322" cy="349" r="51" fill="#fff1d3"/>
+<text x="322" y="357" font-family="Georgia,serif" font-size="25" font-weight="bold" fill="#8d4d34" text-anchor="middle">temu.</text>
+</g></svg>

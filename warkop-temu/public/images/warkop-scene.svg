@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 680" role="img" aria-label="Ilustrasi sudut warkop yang nyaman">
+<defs><pattern id="tiles" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#c59a71" stroke-width="2" opacity=".32"/></pattern><linearGradient id="walls" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ecd9b9"/><stop offset="1" stop-color="#ceae85"/></linearGradient></defs>
+<rect width="750" height="680" fill="#dcbd95"/><rect x="24" y="24" width="702" height="632" rx="27" fill="url(#walls)"/>
+<rect x="24" y="484" width="702" height="172" fill="#a37554"/>
+<rect x="24" y="484" width="702" height="172" fill="url(#tiles)"/>
+<rect x="65" y="86" width="286" height="355" rx="140" fill="#9b7552"/><rect x="77" y="101" width="262" height="328" rx="130" fill="#436450"/>
+<path d="M209 103v326M81 276h254" stroke="#d6bd98" stroke-width="11"/>
+<circle cx="267" cy="167" r="39" fill="#d7ca82" opacity=".8"/><path d="M85 365q48-112 107-60t139-15v133H85Z" fill="#608064"/>
+<g fill="#f9edcd" stroke="#8f5c38" stroke-width="7"><path d="M401 122h261v127H401z"/><path d="M416 137h232v97H416z" fill="#e6c38d"/></g>
+<text x="533" y="184" font-family="Georgia,serif" fill="#7b472d" font-size="40" font-weight="bold" text-anchor="middle">TEMU.</text>
+<text x="531" y="211" font-family="Arial,sans-serif" fill="#805634" font-size="10" font-weight="bold" letter-spacing="4" text-anchor="middle">COFFEE • FRIENDS • STORIES</text>
+<path d="M436 274c-16-22 18-34 2-54M466 274c-16-22 18-34 2-54" fill="none" stroke="#eee0b8" stroke-width="8" stroke-linecap="round"/>
+<!-- furniture -->
+<ellipse cx="409" cy="545" rx="247" ry="30" fill="#694b37" opacity=".2"/>
+<g stroke="#5c3a2b" stroke-width="11" fill="none" stroke-linecap="round"><path d="M270 476l-32 125M465 476l34 125"/><path d="M285 486l-22 117M444 486l27 117"/></g>
+<path d="M225 454q144-45 286 0l-17 42q-132 24-250 0Z" fill="#8a5337" stroke="#583b2a" stroke-width="9"/>
+<ellipse cx="367" cy="456" rx="159" ry="38" fill="#bd8050" stroke="#593d2b" stroke-width="9"/>
+<!-- two coffee mugs -->
+<path d="M311 415q-36 0-27 29q10 24 36 9M425 413q36-2 27 30q-8 20-33 10" fill="none" stroke="#73492f" stroke-width="10"/>
+<rect x="299" y="390" width="56" height="57" rx="12" fill="#f7ead0" stroke="#704a2d" stroke-width="7"/><ellipse cx="327" cy="392" rx="28" ry="10" fill="#5b392a" stroke="#f7ead0" stroke-width="5"/>
+<rect x="391" y="391" width="55" height="57" rx="12" fill="#d79c6a" stroke="#704a2d" stroke-width="7"/><ellipse cx="418" cy="392" rx="28" ry="10" fill="#5b392a" stroke="#d79c6a" stroke-width="5"/>
+<!-- chairs -->
+<g stroke="#69442f" stroke-width="12" stroke-linecap="round"><path d="M148 424V338Q148 315 171 315H223Q246 315 246 338v122M180 479l-22 120M230 479l19 120" fill="none"/><path d="M545 423v-90q0-20 20-20h52q21 0 21 20v127M562 472l-14 128M615 472l21 128" fill="none"/></g>
+<rect x="144" y="442" width="109" height="37" rx="15" fill="#bf744a" stroke="#754b32" stroke-width="8"/><rect x="532" y="439" width="122" height="37" rx="15" fill="#bf744a" stroke="#754b32" stroke-width="8"/>
+<!-- planter -->
+<path d="M668 483Q626 386 664 308M663 407q-63-40-61-105M657 379q60-53 30-100" fill="none" stroke="#4e7452" stroke-width="10" stroke-linecap="round"/>
+<g fill="#66835e"><ellipse cx="640" cy="349" rx="48" ry="20" transform="rotate(35 640 349)"/><ellipse cx="694" cy="327" rx="48" ry="21" transform="rotate(-32 694 327)"/><ellipse cx="618" cy="303" rx="44" ry="22" transform="rotate(48 618 303)"/><ellipse cx="699" cy="281" rx="44" ry="19" transform="rotate(-49 699 281)"/></g>
+<path d="M631 469h85l-14 119h-56Z" fill="#d0805c" stroke="#6c4834" stroke-width="8"/>
+<path d="M29 601q324-42 692 0" fill="none" stroke="#cc9c6f" stroke-width="3"/>
+</svg>
